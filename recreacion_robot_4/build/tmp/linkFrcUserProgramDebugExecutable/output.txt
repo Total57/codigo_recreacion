@@ -1,0 +1,4 @@
+See file:///C:/Users/esang/OneDrive/Escritorio/Robot_BULUK/recreacion_robot_4/build/tmp/linkFrcUserProgramDebugExecutable/output.txt for all output for linkFrcUserProgramDebugExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramDebugExecutable, see full log file:///C:/Users/esang/OneDrive/Escritorio/Robot_BULUK/recreacion_robot_4/build/tmp/linkFrcUserProgramDebugExecutable/output.txt.

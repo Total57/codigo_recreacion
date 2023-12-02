@@ -1,0 +1,4 @@
+See file:///C:/Users/esang/OneDrive/Escritorio/Robot_BULUK/recreacion_robot_4/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/esang/OneDrive/Escritorio/Robot_BULUK/recreacion_robot_4/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
